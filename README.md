@@ -4,6 +4,6 @@
 
 - :mortar_board: University of South Carolina :palm_tree: :palm_tree: :palm_tree:
 
-- :house: meng2010.github.com
+- :house: [homepage](https://meng2010.github.io/)
 
 <img src="https://github-profile-trophy.vercel.app/?username=meng2010&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
