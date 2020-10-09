@@ -1,8 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=meng2010&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-### Ying Meng
+### :octocat: Ying Meng :four_leaf_clover: :coffee: :coffee:
 
-- :mortar_board: Ph.D. candidate at University of South Carolina
+- :mortar_board: University of South Carolina :palm_tree: :palm_tree: :palm_tree:
 
 - :house: meng2010.github.com
 
