@@ -5,5 +5,5 @@ I'm a PhD candidate at the University of South Carolina:palm_tree: doing researc
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=meng2010&count_private=true&show_icons=true&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&theme=default&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=meng2010&count_private=true&show_icons=true&theme=default&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&theme=default&count_private=true&show_icons=true" />
