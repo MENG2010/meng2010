@@ -4,6 +4,5 @@
 I'm a PhD candidate at the University of South Carolina:palm_tree: doing research on adversarial machine learning.
 
 ---
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=meng2010&count_private=true&show_icons=true&theme=default&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&theme=default&count_private=true&show_icons=true" />
+![Ying's github stats](https://github-readme-stats.vercel.app/api?username=meng2010&orgs=softsys4ai,csce585-mlsystems&count_private=true&show_icons=true&theme=blueberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&orgs=softsys4ai,csce585-mlsystems&layout=compact&theme=blueberry)](https://github.com/meng2010/github-readme-stats)
