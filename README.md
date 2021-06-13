@@ -5,8 +5,4 @@ I'm a PhD candidate at the University of South Carolina:palm_tree: doing researc
 
 ---
 ![Ying's github stats](https://github-readme-stats.vercel.app/api?username=meng2010&orgs=softsys4ai,csce585-mlsystems&count_private=true&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&orgs=softsys4ai,csce585-mlsystems&theme=chartreuse-dark)](https://github.com/meng2010/github-readme-stats)
-
-[![585Proj-ATHENA](https://github-readme-stats.vercel.app/api/pin/?username=csce585-mlsystems&repo=project-athena&show_owner=true&theme=chartreuse-dark)](https://github.com/csce585-mlsystems/project-athena)
-[![ATHENA](https://github-readme-stats.vercel.app/api/pin/?username=softsys4ai&repo=athena&show_owner=true&theme=chartreuse-dark)](https://github.com/softsys4ai/athena)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&orgs=softsys4ai,csce585-mlsystems&count_private=true&theme=chartreuse-dark)](https://github.com/meng2010/github-readme-stats)
