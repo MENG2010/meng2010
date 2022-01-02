@@ -10,8 +10,7 @@ I'm a PhD candidate at the University of South Carolina:palm_tree: doing researc
 
 Vistiors: ![Visitor Count](https://profile-counter.glitch.me/meng2010/count.svg)
 
-
-
+<!--
 <a href="https://github.com/meng2010/lustre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meng2010&repo=lustre&theme=chartreuse-dark" />
 </a>
@@ -21,3 +20,4 @@ Vistiors: ![Visitor Count](https://profile-counter.glitch.me/meng2010/count.svg)
 <a href="https://github.com/csce585-mlsystems/project-athena">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=csce585-mlsystems&repo=project-athena&theme=chartreuse-dark" />
 </a>
+-->
