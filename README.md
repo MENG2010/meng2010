@@ -9,10 +9,10 @@ I'm a Ph.D. student at George Mason University, doing research on security machi
 </div>
 <div>
     <a href="https://github-readme-stats.vercel.app">
-        <img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=meng2010&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=meng2010&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="45%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=meng2010&theme=shades-of-purple&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=meng2010&theme=shades-of-purple&hide_border=true"/>
     </a>
 </div>
 
@@ -20,7 +20,7 @@ I'm a Ph.D. student at George Mason University, doing research on security machi
 <div>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/meng2010/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=meng2010&row=4&theme=onedark&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=meng2010&row=1&theme=onedark&no-frame=true"/>
 </div>
 
 Vistiors: ![Visitor Count](https://profile-counter.glitch.me/meng2010/count.svg)
