@@ -9,6 +9,12 @@ I'm a Ph.D. student at George Mason University, doing research on security machi
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&orgs=softsys4ai,csce585-mlsystems&count_private=true&theme=chartreuse-dark)](https://github.com/meng2010/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&count_private=true&theme=chartreuse-dark)](https://github.com/meng2010/github-readme-stats)
 
+<div>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/meng2010/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=meng2010&row=4&theme=onedark&no-frame=true"/>
+</div>
+
 Vistiors: ![Visitor Count](https://profile-counter.glitch.me/meng2010/count.svg)
 
 <!--
