@@ -4,10 +4,16 @@
 I'm a Ph.D. student at George Mason University, doing research on security machine learning.
 
 ---
-<!--![Ying's github stats](https://github-readme-stats.vercel.app/api?username=meng2010&orgs=softsys4ai,csce585-mlsystems&count_private=true&show_icons=true&theme=chartreuse-dark)-->
-![Ying's github stats](https://github-readme-stats.vercel.app/api?username=meng2010&count_private=true&show_icons=true&theme=chartreuse-dark)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&orgs=softsys4ai,csce585-mlsystems&count_private=true&theme=chartreuse-dark)](https://github.com/meng2010/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meng2010&count_private=true&theme=chartreuse-dark)](https://github.com/meng2010/github-readme-stats)
+<a><h2>Stats</h2></a>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=meng2010&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=meng2010&theme=shades-of-purple&hide_border=true"/>
+    </a>
+  </div>
+  </br>
 
 <div>
     <a><h2>Trophies</h2></a>
