@@ -23,7 +23,7 @@ I'm a Ph.D. student at George Mason University, doing research on security machi
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=meng2010&row=1&theme=onedark&no-frame=true"/>
 </div> -->
 
-Vistiors: ![Visitor Count](https://profile-counter.glitch.me/meng2010/count.svg)
+<!-- Vistiors: ![Visitor Count](https://profile-counter.glitch.me/meng2010/count.svg) -->
 
 <!--
 <a href="https://github.com/meng2010/lustre">
