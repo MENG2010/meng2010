@@ -11,16 +11,6 @@ I'm a Ph.D. student at George Mason University, doing research on security machi
 ![Ying's GitHub stats](https://github-readme-stats.vercel.app/api?username=meng2010&show_icons=true&theme=transparent)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=meng2010&theme=transparent)
 
-<!--
-<div>
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=meng2010&theme=transparent&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=meng2010&theme=transparent&hide_border=true"/>
-    </a>
-</div>
--->
 
 <!--
 </br>
