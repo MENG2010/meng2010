@@ -3,7 +3,7 @@
 
 I'm a Ph.D. student at George Mason University, doing research on security machine learning.
 
-<!-- ---
+
 <div>
 <a><h2>Stats</h2></a>
 </div>
@@ -16,12 +16,14 @@ I'm a Ph.D. student at George Mason University, doing research on security machi
     </a>
 </div>
 
+<!--
 </br>
 <div>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/meng2010/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=meng2010&row=1&theme=onedark&no-frame=true"/>
-</div> -->
+</div>
+-->
 
 <!-- Vistiors: ![Visitor Count](https://profile-counter.glitch.me/meng2010/count.svg) -->
 
