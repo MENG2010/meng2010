@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://meng2010.github.io/)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nn2pHGcAAAAJ&hl=en)
 
-I'm a Ph.D. student at George Mason University, doing research on security machine learning.
+I'm a Ph.D. student at George Mason University, doing research on secure AI, trustworthy machine learning, software security, etc.
 
 <!--
 <div>
